@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OPCM</string>
+    <string name="app_version">Versão Beta</string>
+    <string name="copyright">Copyright © 2019 João Batista. \nTodos os direitos reservados</string>
+
+    <!--AdMob-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- youtube -->
+    <string name="youtube_api_key">AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY</string>
+    <string name="error_player">Ocorreu um erro ao abrir o vídeo(%1$s)</string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="link_website">https://www.opcm.pt</string>
+
+    <!--share-->
+    <string name="share_content">Eu gostaria de partilhar isto contigo. Aqui tu podes descarregar a aplicação pela Play Store</string>
+    <string name="whops">Whoops!</string>
+    <string name="cannot_add_to_favorite">Não foi possível adicionar aos favoritos</string>
+    <string name="favorite_added">Adicionado aos favoritos</string>
+    <string name="favorite_removed">Removido dos favoritos</string>
+    <string name="no_favorite_found">Esta página está vazia porque ainda não adicionaste nenhuma notícia aos favoritos.</string>
+    <string name="title_comments">Comentários</string>
+    <string name="title_update_comment">Comentários</string>
+    <string name="title_send_comment">Enviar comentário</string>
+    <string name="txt_no_comment">Escreve o teu primeiro comentário&#8230;</string>
+    <string name="msg_no_comment">Sem comentários ainda, sê o primeiro a comentar.</string>
+    <string name="comment_hint">Escreve o teu comentário&#8230;</string>
+    <string name="confirm_send_comment">Enviar este comentário?</string>
+    <string name="confirm_update_comment">Editar este comentário?</string>
+    <string name="confirm_delete_comment">Tens a certeza que pretendes eliminar o teu comentário??</string>
+    <string name="sending_comment">A enviar comentário&#8230;</string>
+    <string name="updating_comment">A editar comentário&#8230;</string>
+    <string name="txt_read">Ler</string>
+    <string name="txt_comment">Comentário</string>
+    <string name="txt_comments">Comentários</string>
+    <string name="txt_you">tu</string>
+    <string name="register_title">Obrigado por ter criado a sua conta!</string>
+    <string name="register_success">Conta criada com sucesso&#8230;</string>
+    <string name="register_process">A criar a sua conta&#8230;</string>
+    <string name="register_exist">Este email já foi usado!</string>
+    <string name="terms_text">Ao criar esta conta, tu concordas com os nossos</string>
+    <string name="terms_n_privacy">Termos &amp; Privacidade</string>
+    <string name="title_please_wait">Por favor aguarde&#8230;</string>
+    <string name="already_have_account">Já tens uma conta?</string>
+    <string name="login_title">Bom trabalho!</string>
+    <string name="login_process">A iniciar sessão&#8230;</string>
+    <string name="login_success">Login efetuado com sucesso&#8230;</string>
+    <string name="login_failed">Email e/ou password inválidos!</string>
+    <string name="login_disabled">Esta conta foi desativada, por favor contacte um administrador para ativá-la</string>
+    <string name="login_required">Por favor inicia sessão para comentar.</string>
+    <string name="do_not_have_account">Ainda não tens uma conta?</string>
+    <string name="register_now">Criar Conta</string>
+    <string name="logout_title">Terminar Sessão</string>
+    <string name="logout_message">Tens a certeza que pretendes terminar sessão?</string>
+    <string name="logout_process">A terminar sessão&#8230;</string>
+    <string name="logout_success">Sessão terminada com sucesso</string>
+
+    <!--forgot password-->
+    <string name="forgot_message">Introduz o email que utilizaste durante o processo de criação da conta.</string>
+    <string name="forgot_failed_message">Este email não foi localizado na nossa base de dados!</string>
+    <string name="forgot_success_message">A password foi enviada para o teu email!</string>
+    <string name="forgot_password">Esqueceu-se da password?</string>
+    <string name="err_password">Insira uma password</string>
+    <string name="err_password_confirmation">As palavra-passes inseridas não correspondem. </string>
+    <string name="err_email">Insira um email válido</string>
+
+
+    <!--permission-->
+    <string name="permission_msg">Precissa de permissão</string>
+    <string name="permission_upload">Esta aplicação precisa de acesso ao teu armazenamento para carregar a tua foto de perfil</string>
+    <string name="download_msg">A descarregar&#8230;</string>
+    <string name="download_success">A imagem foi descarregada e guardada na galeria.</string>
+
+    <!-- toolbar and title-->
+    <string name="title_menu_profile">Perfil</string>
+    <string name="title_menu_close">Sair</string>
+    <string name="title_menu_save">Guardar</string>
+    <string name="title_menu_send">Enviar</string>
+    <string name="title_menu_later">Favorito</string>
+    <string name="title_menu_share">Partilha</string>
+    <string name="title_menu_search">Pesquisar&#8230;</string>
+    <string name="title_menu_browser">Abrir no navegador</string>
+    <string name="title_login">Iniciar Sessão</string>
+    <string name="title_register">Criar Conta</string>
+    <string name="title_forgot_password">Redefinir Password</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Notícias</string>
+    <string name="title_nav_category">Eventos</string>
+    <string name="title_nav_video">Vídeos</string>
+    <string name="title_nav_favorite">Favoritos</string>
+    <string name="title_nav_profile">Perfil</string>
+
+    <!--about information-->
+    <string name="title_about_privacy">Política de Privacidade</string>
+    <string name="title_about_rate">Feedback</string>
+    <string name="title_about_more">Website</string>
+    <string name="title_about_info">Copyright</string>
+    <string name="title_about_us">Sobre Nós</string>
+    <string name="title_our_mission">A Nossa Missão</string>
+    <string name="sub_title_about_privacy">Termos &amp; Política da aplicação</string>
+    <string name="sub_title_about_rate">Dá-nos o teu feedback</string>
+    <string name="sub_title_about_more">Website Oficial do OPCM</string>
+    <string name="sub_title_about_us">Quem Somos/Objetivos</string>
+    <string name="sub_title_our_mission">A missão da OPCM</string>
+
+    <!--network message-->
+    <string name="offline">Tu estás offline</string>
+    <string name="msg_offline">Verifique se a conexão com a internet está funcionando corretamente.</string>
+    <string name="msg_no_news">Oops, ainda não foram publicadas notícias.</string>
+    <string name="msg_no_category">Oops, ainda não foram publicados eventos.</string>
+    <string name="msg_no_news_found">Oops, não foram encontradas notícias! Se pretendes continuar a pesquisar, por favor experimenta pesquisar por outra coisa!</string>
+    <string name="msg_no_events_found">Oops, não foram encontrados eventos! Se pretendes continuar a pesquisar, por favor experimenta pesquisar por outra coisa!</string>
+    <string name="msg_no_network">Oops, ocorreu algum problema com a tua internet ou o servidor está offline, por favor tente novamente mais tarde.</string>
+    <string name="msg_search_input">Por favor preenche o campo de pesquisa</string>
+    <string name="btn_retry">Tentar Novamente</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_success">Successo!</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="dialog_no">Não</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_read_more">Ler Mais</string>
+    <string name="dialog_dismiss">Dispensar</string>
+    <string name="dialog_settings">Ir para as definições</string>
+
+    <!--form-->
+    <string name="edt_name">Nome e Apelido</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Password</string>
+
+    <!--button-->
+    <string name="btn_login">Iniciar Sessão</string>
+    <string name="btn_register">Criar Conta</string>
+    <string name="btn_send">Enviar</string>
+
+    <!--profile-->
+    <string name="txt_profile_edit">Editar</string>
+    <string name="txt_profile_welcome">Bem Vindo!</string>
+    <string name="txt_profile_not_registered">Ainda não tens conta?</string>
+    <string name="txt_profile_register_now">Criar Conta</string>
+    <string name="txt_profile_login">Iniciar Sessão</string>
+    <string name="txt_profile_logout">Terminar Sessão</string>
+    <string name="updating_profile">A editar perfil</string>
+    <string name="waiting_message">Por favor aguarde&#8230;</string>
+
+    <!--close message-->
+    <string name="press_again_to_exit">Clica outra vez para sair da aplicação</string>
+
+    <!--privacy policy url-->
+    <string name="privacy_policy_url">http://opcm.pt/politica-de-privacidade</string>
+    <string name="edt_username">Nome de Utilizador</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698380374188",
+    "firebase_url": "https://opcm-94120.firebaseio.com",
+    "project_id": "opcm-94120",
+    "storage_bucket": "opcm-94120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698380374188:android:3c7e84dc18c5cf135b8f09",
+        "android_client_info": {
+          "package_name": "com.android.opcmpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698380374188-506946lviluot4cevmmbttp9994ffgtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5cNRT_r3mQgnUO68kiZ3Qai97fd1D_aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698380374188-506946lviluot4cevmmbttp9994ffgtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
